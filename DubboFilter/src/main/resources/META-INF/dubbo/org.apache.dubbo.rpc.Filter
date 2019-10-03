@@ -1,0 +1,1 @@
+jaegerTraceFilter=com.ttpark.DubboFilter.jaegerTraceFilter

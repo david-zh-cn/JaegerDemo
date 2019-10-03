@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DubboCommon" />
+        <module name="DubboFilter" />
+        <module name="WebServerC" />
+        <module name="DubboServerB" />
+        <module name="WebServerA" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="DubboCommon" target="1.5" />
+      <module name="DubboFilter" target="1.8" />
+      <module name="DubboServerB" target="1.8" />
+      <module name="WebServerA" target="1.8" />
+      <module name="WebServerC" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DubboServerB" options="-parameters" />
+      <module name="WebServerA" options="-parameters" />
+      <module name="WebServerC" options="-parameters" />
+    </option>
+  </component>
+</project>

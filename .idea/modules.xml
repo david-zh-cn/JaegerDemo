@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DubboCommon/DubboCommon.iml" filepath="$PROJECT_DIR$/DubboCommon/DubboCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DubboFilter/DubboFilter.iml" filepath="$PROJECT_DIR$/DubboFilter/DubboFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DubboServerB/DubboServerB.iml" filepath="$PROJECT_DIR$/DubboServerB/DubboServerB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServerA/WebServerA.iml" filepath="$PROJECT_DIR$/WebServerA/WebServerA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServerC/WebServerC.iml" filepath="$PROJECT_DIR$/WebServerC/WebServerC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jaegerDemo-final.iml" filepath="$PROJECT_DIR$/.idea/jaegerDemo-final.iml" />
+    </modules>
+  </component>
+</project>

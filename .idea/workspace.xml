@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ae492ef-6d37-4fed-af70-b9c8e29a8ccf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/maven/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QDrnV8dQ6ptAxoBdbqcwSXwWC0" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jaegerDemo2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WebServerAApplication">
+    <configuration name="DubboServerBApplication" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="/opt/java/jdk1.8.0_201/jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ttpark.DubboServerB.DubboServerBApplication" />
+      <module name="DubboServerB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebServerAApplication" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="/opt/java/jdk1.8.0_201/jre" />
+      <option name="MAIN_CLASS_NAME" value="com.ttpark.WebServerA.WebServerAApplication" />
+      <module name="WebServerA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebServerCApplication" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="/opt/java/jdk1.8.0_201/jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ttpark.WebServerC.WebServerCApplication" />
+      <module name="WebServerC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="/opt/java/jdk1.8.0_201/jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ttpark.WebServerA.WebServerAApplication" />
+      <module name="WebServerA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboServerBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DubboServerB" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ttpark.DubboServerB.DubboServerBApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebServerAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="WebServerA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ttpark.WebServerA.WebServerAApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WebServerAApplication" />
+      <item itemvalue="Application.WebServerCApplication" />
+      <item itemvalue="Application.DubboServerBApplication" />
+      <item itemvalue="Spring Boot.DubboServerBApplication" />
+      <item itemvalue="Spring Boot.WebServerAApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ae492ef-6d37-4fed-af70-b9c8e29a8ccf" name="Default Changelist" comment="" />
+      <created>1567316174935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567316174935</updated>
+      <workItem from="1567316176076" duration="47175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="resEntity" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
